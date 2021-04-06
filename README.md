@@ -19,3 +19,9 @@ je nach Anzahl der DS18B20 Widerstände (mind. 1) // 220 Ohm
 ### Hardware
 
 ![alt text](https://user-images.githubusercontent.com/42981810/113784088-179a9680-9735-11eb-85a6-e79a50098a5c.png)
+
+
+### Software
+
+Auskommentierte Befehle sind für einen zweiten Temperatursensor (DS18B20) um diesen zu aktivieren die betroffenen Zeilen reaktivieren.
+In dem Beispiel werden die Daten an einen ioBroker gesendet.
