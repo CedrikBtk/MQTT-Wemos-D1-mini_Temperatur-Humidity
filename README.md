@@ -17,3 +17,5 @@ je nach Anzahl der DS18B20 Widerstände (mind. 1) // 220 Ohm
 ## Einrichtung
 
 ### Hardware
+
+![alt text](https://user-images.githubusercontent.com/42981810/113784088-179a9680-9735-11eb-85a6-e79a50098a5c.png)
