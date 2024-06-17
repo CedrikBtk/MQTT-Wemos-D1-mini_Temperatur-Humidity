@@ -11,7 +11,6 @@ mind. 1x DS18B20 (Temperatursensor)
 versch. Kabel
 <br>
 je nach Anzahl der DS18B20 Widerstände (mind. 1) // 220 Ohm
-<h5>~ 15€</h5>
 
 
 ## Einrichtung
